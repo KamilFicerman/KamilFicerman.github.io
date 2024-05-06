@@ -8,5 +8,10 @@
         "Name": "Joanna Mocna",
         "Office": "H23",
         "IsWorking": true
+    },
+    {
+        "Name": "Karolina Kowalska",
+        "Office": "G3",
+        "IsWorking": true
     }
 ]
