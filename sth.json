@@ -1,12 +1,12 @@
 [
     {
-        "Name": "Kamil",
-        "Office": "Drzewiasty",
+        "Name": "Kamil Drzewiasty",
+        "Office": "D112",
         "IsWorking": false
     },
     {
-        "Name": "Joanna",
-        "Office": "Mocna",
+        "Name": "Joanna Mocna",
+        "Office": "H23",
         "IsWorking": true
     }
 ]
