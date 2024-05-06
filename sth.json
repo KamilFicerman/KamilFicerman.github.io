@@ -1,0 +1,12 @@
+[
+    {
+        "Name": "Kamil",
+        "Office": "Drzewiasty",
+        "IsWorking": false
+    },
+    {
+        "Name": "Joanna",
+        "Office": "Mocna",
+        "IsWorking": true
+    }
+]
